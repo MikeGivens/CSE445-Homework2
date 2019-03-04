@@ -1,0 +1,6 @@
+C:\Users\mgive\Desktop\HW2\HW2\bin\Debug\HW2.exe.config
+C:\Users\mgive\Desktop\HW2\HW2\bin\Debug\HW2.exe
+C:\Users\mgive\Desktop\HW2\HW2\bin\Debug\HW2.pdb
+C:\Users\mgive\Desktop\HW2\HW2\obj\Debug\HW2.csprojResolveAssemblyReference.cache
+C:\Users\mgive\Desktop\HW2\HW2\obj\Debug\HW2.exe
+C:\Users\mgive\Desktop\HW2\HW2\obj\Debug\HW2.pdb
